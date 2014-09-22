@@ -1,6 +1,6 @@
 <?php
 
-class page_GoogleLanguageConverter_page_owner_update extends page_componentBase_page_update {
+class page_languageConverter_page_owner_update extends page_componentBase_page_update {
 		
 	public $git_path='https://github.com/xepan/languageConverter'; // Put your components git path here
 

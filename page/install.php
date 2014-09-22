@@ -1,6 +1,6 @@
 <?php
 
-class page_GoogleLanguageConverter_page_install extends page_componentBase_page_install {
+class page_languageConverter_page_install extends page_componentBase_page_install {
 	function init(){
 		parent::init();
 

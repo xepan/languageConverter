@@ -1,6 +1,6 @@
 <?php
 
-class page_GoogleLanguageConverter_page_uninstall extends page_componentBase_page_uninstall{
+class page_languageConverter_page_uninstall extends page_componentBase_page_uninstall{
 
 	function init(){
 		parent::init();

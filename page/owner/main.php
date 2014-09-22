@@ -1,6 +1,6 @@
 <?php
 
-class page_GoogleLanguageConverter_page_owner_main extends page_componentBase_page_owner_main {
+class page_languageConverter_page_owner_main extends page_componentBase_page_owner_main {
 	function initMainPage(){
 		$this->add('H1')->set('Component Owner Main Page');
 	}

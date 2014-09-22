@@ -1,5 +1,5 @@
 <?php
-class page_GoogleLanguageConverter_page_removecomponent extends page_componentBase_page_removecomponent {
+class page_languageConverter_page_removecomponent extends page_componentBase_page_removecomponent {
 	function init(){
 		parent::init();
 
